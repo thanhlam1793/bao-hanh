@@ -1,4 +1,4 @@
-Dấu thời gian,Họ tên,Số điện thoại,Mã đơn hàng,Mã bảo mật,Địa chỉ email
+Dấu thời gian,Họ tên,Số điện thoại,Mã đơn hàng,Serial,Địa chỉ email
 2024-07-15 10:00,John Doe,1234567890,ORD1234,ABC123,johndoe@example.com
 2024-07-15 11:00,Jane Smith,0987654321,ORD5678,DEF456,janesmith@example.com
 2024-07-15 10:00,John Doe 1,1234567890,ORD1234,ABC123,johndoe@example.com
