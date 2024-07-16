@@ -1,6 +1,6 @@
-Dấu thời gian,Họ tên,Số điện thoại,Mã đơn hàng,Serial,Địa chỉ email
-2024-07-15 10:00,John Doe,1234567890,ORD1234,ABC123,johndoe@example.com
-2024-07-15 11:00,Jane Smith,0987654321,ORD5678,DEF456,janesmith@example.com
-2024-07-15 10:00,John Doe 1,1234567890,ORD1234,ABC123,johndoe@example.com
-2024-07-15 10:00,John Doe 2,1234567890,ORD1234,ABC123,johndoe@example.com
-2024-07-15 10:00,John Doe 3,1234567890,ORD1234,ABC123,johndoe@example.com
+Dấu thời gian,Họ tên,Số điện thoại,Mã đơn hàng,Serial,Trạng thái,Ngày mua,Ngày bắt đầu bảo hành,Ngày kết thúc bảo hành
+2024-07-15 10:00,John Doe,1234567890,ORD1234,ABC123,Chưa bảo hành,02/08/2020,03/09/2020,02/08/2021
+2024-07-15 11:00,Jane Smith,0987654321,ORD5678,DEF456,Chưa bảo hành,02/08/2020,02/09/2020,02/08/2021
+2024-07-15 10:00,John Doe 1,1234567890,ORD1234,ABC123,Bảo hành lần 1,03/08/2020,02/09/2020,02/08/2021
+2024-07-15 10:00,John Doe 2,1234567890,ORD1234,ABC123,Bảo hành lần 1,12/08/2020,02/09/2020,02/08/2021
+2024-07-15 10:00,John Doe 3,1234567890,ORD1234,ABC123,Bảo hành lần 1,15/08/2020,02/09/2020,02/08/2021
